@@ -2,4 +2,4 @@
 
 ## projet PROTEUS pour la post-sécurité
 
-![project in PROTEUS for Post Security](Screenshot (21).png)
+![project in PROTEUS for Post Security](Screenshot(21).png)
